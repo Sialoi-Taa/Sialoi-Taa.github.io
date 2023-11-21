@@ -10,13 +10,13 @@ Older aged people not knowing that they may have an underlying heart disease, mo
 ![Milestones](/imgs/Milestones.png)
 
 ## Completed
-1) Completed PCB and schematic design
-2) Assembled PCB and waiting on last part
+1. Completed PCB and schematic design
+2. Assembled PCB and waiting on last part
 
 ## Working On
-1) Code for sample collection
-2) Code for UI/UX
-3) Shield ideas
+1. Code for sample collection
+2. Code for UI/UX
+3. Shield ideas
 
 # Heartbeat Pulse Sensor
 ## Images
@@ -29,14 +29,14 @@ Older aged people not knowing that they may have an underlying heart disease, mo
 ![Arduino_snip](/imgs/PCB.png)
 
 ## Software and Hardware List
-1) Arduino
-2) Python
-3) Swift
-4) Photodiode
-5) LED
-6) ESP32
-7) Resistor
-8) Capacitor
+1. Arduino
+2. Python
+3. Swift
+4. Photodiode
+5. LED
+6. ESP32
+7. Resistor
+8. Capacitor
 
 # Sampling and ML Model for aFib Detection
 ## Code
