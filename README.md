@@ -26,6 +26,7 @@ Older aged people not knowing that they may have an underlying heart disease, mo
 
 ## PCB
 ![Arduino_snip](/imgs/PCB.png)
+![pcb_irl](/imgs/pcb_irl.png)
 
 ## Software and Hardware List
 1. Arduino
@@ -39,6 +40,8 @@ Older aged people not knowing that they may have an underlying heart disease, mo
 
 # Prototype and Shield
 ![Shield](/imgs/shield.png)
+![Clip](/imgs/clip.png)
+![Set Up](/imgs/set up.png)
 # Sampling and ML Model for aFib Detection
 ## Code
 ![Arduino_snip](/imgs/Arduino_snip.png)
