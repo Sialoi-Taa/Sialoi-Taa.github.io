@@ -41,7 +41,7 @@ Older aged people not knowing that they may have an underlying heart disease, mo
 # Prototype and Shield
 ![Shield](/imgs/shield.png)
 ![Clip](/imgs/clip.png)
-![Set Up](/imgs/set up.png)
+![SetUp](/imgs/set_up.png)
 # Sampling and ML Model for aFib Detection
 ## Code
 ![Arduino_snip](/imgs/Arduino_snip.png)
