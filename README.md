@@ -6,7 +6,8 @@ Sialoi Taa, Sara Mostafidi, Allison Moya
 Older aged people not knowing that they may have an underlying heart disease, more focused towards those with no medical background knowledge.
 
 ## Demo Video
-[ECE 196 Pulse Project: Fibi](https://youtu.be/l_U-TADhpTM?si=gZzMEEWPGDS88HhN/)
+[ECE 196 Pulse Project: 
+Fibi](https://youtu.be/l_U-TADhpTM?si=gZzMEEWPGDS88HhN)
 ## Milestones
 ![Milestones](/imgs/Milestones.png)
 
