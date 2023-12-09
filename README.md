@@ -1,7 +1,7 @@
 # Project Pulse Final Project
 # The Team
 Sialoi Taa, Sara Mostafidi, Allison Moya
-![Team](/imgs/team.png)
+![Team](imgs/team.png)
 # Project Overview
 ## Problem Definition
 Older aged people not knowing that they may have an underlying heart disease, more focused towards those with no medical background knowledge.
@@ -10,7 +10,7 @@ Older aged people not knowing that they may have an underlying heart disease, mo
 [ECE 196 Pulse Project: 
 Fibi](https://youtu.be/l_U-TADhpTM?si=gZzMEEWPGDS88HhN)
 ## Milestones
-![Milestones](/imgs/Milestones.png)
+![Milestones](imgs/Milestones.png)
 
 ## Completed
 1. Completed PCB and schematic design
@@ -22,14 +22,14 @@ Fibi](https://youtu.be/l_U-TADhpTM?si=gZzMEEWPGDS88HhN)
 
 # Heartbeat Pulse Sensor
 ## Images
-![Approach](/imgs/Proposed_Approach.png)
+![Approach](imgs/Proposed_Approach.png)
 
 ## Schematic
-![Schematic](/imgs/Schematic.png)
+![Schematic](imgs/Schematic.png)
 
 ## PCB
-![Arduino_snip](/imgs/PCB.png)
-![pcb_irl](/imgs/pcb_irl.png)
+![Arduino_snip](imgs/PCB.png)
+![pcb_irl](imgs/pcb_irl.png)
 
 ## Software and Hardware List
 1. Arduino
@@ -42,14 +42,16 @@ Fibi](https://youtu.be/l_U-TADhpTM?si=gZzMEEWPGDS88HhN)
 8. Capacitor
 
 # Prototype and Shield
-![Shield](/imgs/shield.png)
-![Clip](/imgs/clip.png)
-![SetUp](/imgs/set_up.png)
-# Sampling and ML Model for aFib Detection
+![Shield](imgs/shield.png)
+![Clip](imgs/clip.png)
+![SetUp](imgs/set_up.png)
+# Sampling for aFib Detection
+## Flow Chart
+![Flow_Chart](imgs/Flow_Chart.png)
 ## Code
-![Arduino_snip](/imgs/Arduino_snip.png)
-## Training
+![Arduino_snip](imgs/Arduino_snip.png)
 # UI/Application
+
 # Final Presentation
 [PRESENTATION](https://docs.google.com/presentation/d/1Bf_K1-Fuhnck8Ux5nZZ97LSzt35pcDPSmIBCwOtfqkg/edit?usp=sharing/)
 
