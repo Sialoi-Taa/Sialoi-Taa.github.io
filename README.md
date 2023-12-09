@@ -1,6 +1,7 @@
 # Project Pulse Final Project
 # The Team
 Sialoi Taa, Sara Mostafidi, Allison Moya
+![Team](/imgs/team.jpeg)
 # Project Overview
 ## Problem Definition
 Older aged people not knowing that they may have an underlying heart disease, more focused towards those with no medical background knowledge.
@@ -59,6 +60,6 @@ Fibi](https://youtu.be/l_U-TADhpTM?si=gZzMEEWPGDS88HhN)
 
 [How to detect IR pulse using phototransistor and voltage comparator (subtracting constant light) - Electrical Engineering Stack Exchange](https://electronics.stackexchange.com/questions/464372/how-to-detect-ir-pulse-using-phototransistor-and-voltage-comparator-subtracting): Helps with understanding the process of detecting a heartbeat.
 
- # Acknowledgements
-Scripps Institution of Oceanography Engineers 
+# Acknowledgements
+Scripps Institution of Oceanography Engineers
 TA's and Karcher :)
