@@ -49,7 +49,8 @@ Fibi](https://youtu.be/l_U-TADhpTM?si=gZzMEEWPGDS88HhN)
 ![SetUp](imgs/set_up.png)
 # Sampling for aFib Detection
 ## Flow Chart
-![Flow_Chart](imgs/Flow_Chart.png)
+![Flow_Chart](imgs/Flow_Chart.png)  
+Flow chart can also be found here: [CLICK HERE](https://mockitt.wondershare.com/flow/design/pblpxqq0awu9770s)
 ## Code
 ![Arduino_snip](imgs/Arduino_snip.png)
 # UI/Application
