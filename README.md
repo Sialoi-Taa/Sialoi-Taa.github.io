@@ -1,3 +1,4 @@
+![logo](/imgs//Users/allisonmoya/Documents/Sialoi-Taa.github.io/imgs/UCSD-JacobsSchool-USpace_explainer_1@4x_0.png)
 # ECE 196 Fall 2023 Team Project Pulse Final Project: Heart Disease and Diagnosis Detector
 # The Team
 Sialoi Taa, Sara Mostafidi, Allison Moya
