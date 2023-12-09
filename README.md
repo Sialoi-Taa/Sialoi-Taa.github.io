@@ -53,6 +53,21 @@ Fibi](https://youtu.be/l_U-TADhpTM?si=gZzMEEWPGDS88HhN)
 ## Code
 ![Arduino_snip](imgs/Arduino_snip.png)
 # UI/Application
+First is our app that will be very easily downloadable for our target audience: the elderly.  
+![AFib_App](imgs/App_Icon.png)  
+  
+After entering into the app, it'll begin searching for the device.  
+![AFib_Connection](imgs/App_SearchConnection.png)  
+  
+Once connected to the device, this will be the home page where all of the options will be located. We have 2 buttons: Start Collection and Results.
+Start Collection will begin the AFib prediction process while the Results button will show you the most recent results from the AFib detection processes.   
+![AFib_HomePage](imgs/App_HomePage.png)  
+  
+This is what the app will look like when the AFib prediction process is acting:  
+![AFib_Process](imgs/App_AFibProcess.png)  
+  
+After the process is finished, the user will be sent back to the home page and can see their results by pressing the Results button.  
+![AFib_Results](imgs/App_AFibResults.png)  
 
 # Final Presentation
 [PRESENTATION](https://docs.google.com/presentation/d/1Bf_K1-Fuhnck8Ux5nZZ97LSzt35pcDPSmIBCwOtfqkg/edit?usp=sharing/)
