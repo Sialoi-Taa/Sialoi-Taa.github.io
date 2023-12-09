@@ -1,10 +1,13 @@
-# Project Pulse Final Project
+![logo](imgs/UCSD-JacobsSchool-USpace_explainer_1@4x_0.png)
+# ECE 196 Fall 2023 Team Project Pulse Final Project: Heart Disease and Diagnosis Detector
 # The Team
 Sialoi Taa, Sara Mostafidi, Allison Moya
 ![Team](imgs/team.png)
 # Project Overview
 ## Problem Definition
 Older aged people not knowing that they may have an underlying heart disease, more focused towards those with no medical background knowledge.
+## Problem Solution
+Heart Monitor with arrhythmia (aFib) Detection
 
 ## Demo Video
 [ECE 196 Pulse Project: 
@@ -17,8 +20,7 @@ Fibi](https://youtu.be/l_U-TADhpTM?si=gZzMEEWPGDS88HhN)
 2. Assembled PCB (except for photodiode)
 3. Code for AFib detection
 4. 3D Printed Shield
-## Working On
-1. Code for UI/UX
+5. UI/UX/Mobile Application for User Results
 
 # Heartbeat Pulse Sensor
 ## Images
