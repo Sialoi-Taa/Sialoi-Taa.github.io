@@ -1,5 +1,4 @@
-# ECE 196 Fall 2023 Team Project Pulse Final Project: Heart Disease and 
-Diagnosis Detector
+# ECE 196 Fall 2023 Team Project Pulse Final Project: Heart Disease and Diagnosis Detector
 # The Team
 Sialoi Taa, Sara Mostafidi, Allison Moya
 ![Team](/imgs/team.png)
