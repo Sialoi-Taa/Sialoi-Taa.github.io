@@ -1,7 +1,7 @@
 # Project Pulse Final Project
 # The Team
 Sialoi Taa, Sara Mostafidi, Allison Moya
-![Team](/imgs/team.jpeg)
+![Team](/imgs/team.png)
 # Project Overview
 ## Problem Definition
 Older aged people not knowing that they may have an underlying heart disease, more focused towards those with no medical background knowledge.
